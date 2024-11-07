@@ -2,9 +2,9 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App container">
       <h1>Weather App</h1>
-      <p>
+      <footer>
         This site was coded by Anastasiia Rubik and is{" "}
         <a
           href="https://github.com/AnastasiiaRubikD/react-forecast-app"
@@ -13,7 +13,7 @@ function App() {
         >
           open-sourced on GitHub
         </a>
-      </p>
+      </footer>
     </div>
   );
 }

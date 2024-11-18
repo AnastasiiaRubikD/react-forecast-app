@@ -1,3 +1,8 @@
+body {
+  font-family: "Albert Sans", sans-serif;
+  background-color: powderblue;
+}
+
 .App {
   max-width: 600px;
   margin: 30px auto;
